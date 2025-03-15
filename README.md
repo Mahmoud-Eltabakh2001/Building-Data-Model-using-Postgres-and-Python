@@ -1,6 +1,7 @@
+# Data Engineering Project
+
 # Building-Data-Model-using-Postgres-and-Python
 
-# Data Engineering Project
 
 # Project Overview
 This project aims to implement a data engineering process using Python and Postgres. It involves loading data from three CSV files, performing data cleaning and transformation using Pandas, creating a Postgres database with three related tables, and inserting the data into the tables using psycopg2.
